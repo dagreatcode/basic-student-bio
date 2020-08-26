@@ -6,14 +6,18 @@ a {
     background-color: green;
 }
 
-.contact-info-link {
+.container {
     color: tomato;
 }
 
-#contact-info-header {
+#main-bio {
+    color: blue:
+}
+
+#contact-info {
     color: midnightblue;
 }
 
-#featured-profile-image {
+#bio-image {
     border-color: chartreuse; border-radius: 50%
 }
