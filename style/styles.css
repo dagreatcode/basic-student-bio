@@ -1,15 +1,19 @@
 h1 {
     color: teal;
 }
+
 a {
-    background-color: yellow;
+    background-color: green;
 }
+
 .contact-info-link {
     color: tomato;
 }
+
 #contact-info-header {
-    border-radius: 50%
+    color: midnightblue;
 }
+
 #featured-profile-image {
-    
+    border-color: chartreuse; border-radius: 50%
 }
